@@ -79,4 +79,4 @@ To delete:
 `git branch -d <branch name>`
 
 **Roll back a repository to a specific commit**
-`git revert HEAD~2...HEAD # the number says how many commits are desired to revert
+`git revert HEAD~2...HEAD # the number says how many commits are desired to revert`
