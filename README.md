@@ -41,7 +41,7 @@ To make <sub>Subscript</sub> and <sup>Superscript</sup>
 To make <ins>Underlined</ins> text
 `<ins>Underline text</ins>`
 
-**Quoting text and code"
+**Quoting text and code**
 To quote a text we can use the ">"
 > Quoted text
 
