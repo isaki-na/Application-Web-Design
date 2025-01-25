@@ -50,9 +50,9 @@ To quote code you use backticks "``"
 
 **To add links**
 You use the brackets `[]` to create an inline link with the parenthesis `()` to add the link
-`[Link to GitHub docs to get this information] (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)`
+`[Link to GitHub docs to get this information](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)`
 
-Result: [Link to GitHub docs to get this information] (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Result: [Link to GitHub docs to get this information](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## Commands in git 
 
